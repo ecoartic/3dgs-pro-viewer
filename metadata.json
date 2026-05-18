@@ -1,0 +1,6 @@
+{
+  "name": "3DGS Pro Viewer - Executive Protocol",
+  "description": "A high-performance, native 3D Gaussian Splatting viewer with FPS-style controls, technical HUD, and immersive executive-grade interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
